@@ -1,6 +1,6 @@
 {
   "name": "game-of-life-react-ts",
-  "version": "0.1.0",
+  "version": "1",
   "private": true,
   "dependencies": {
     "@types/jest": "24.0.18",
@@ -32,5 +32,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "license": "MIT"
 }
